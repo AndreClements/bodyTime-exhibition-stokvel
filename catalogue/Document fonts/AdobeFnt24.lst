@@ -1,0 +1,242 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-Bold
+FamilyName:Alegreya Sans
+StyleName:Bold
+FullName:Alegreya Sans Bold
+MenuName:Alegreya Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:108264
+FileModTime:1662874878
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Alegreya Sans Bold
+NameArray:0,Win,1,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-BoldItalic
+FamilyName:Alegreya Sans
+StyleName:Bold Italic
+FullName:Alegreya Sans Bold Italic
+MenuName:Alegreya Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:104712
+FileModTime:1662874878
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Alegreya Sans Bold Italic
+NameArray:0,Win,1,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-Italic
+FamilyName:Alegreya Sans
+StyleName:Italic
+FullName:Alegreya Sans Italic
+MenuName:Alegreya Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:103872
+FileModTime:1662874878
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Alegreya Sans Italic
+NameArray:0,Win,1,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-Light
+FamilyName:Alegreya Sans
+StyleName:Light
+FullName:Alegreya Sans Light
+MenuName:Alegreya Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:107152
+FileModTime:1662874878
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Alegreya Sans Light
+NameArray:0,Win,1,Alegreya Sans Light
+NameArray:0,Win,16,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-LightItalic
+FamilyName:Alegreya Sans
+StyleName:Light Italic
+FullName:Alegreya Sans Light Italic
+MenuName:Alegreya Sans Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:105432
+FileModTime:1662874878
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Alegreya Sans Light Italic
+NameArray:0,Win,1,Alegreya Sans Light
+NameArray:0,Win,16,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-MediumItalic
+FamilyName:Alegreya Sans
+StyleName:Medium Italic
+FullName:Alegreya Sans Medium Italic
+MenuName:Alegreya Sans Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:103808
+FileModTime:1662874878
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Alegreya Sans Medium Italic
+NameArray:0,Win,1,Alegreya Sans Medium
+NameArray:0,Win,16,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-Regular
+FamilyName:Alegreya Sans
+StyleName:Regular
+FullName:Alegreya Sans
+MenuName:Alegreya Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:107260
+FileModTime:1662874878
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Alegreya Sans
+NameArray:0,Win,1,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlegreyaSans-Thin
+FamilyName:Alegreya Sans
+StyleName:Thin
+FullName:Alegreya Sans Thin
+MenuName:Alegreya Sans Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\AlegreyaSans-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:103764
+FileModTime:1662874878
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Alegreya Sans Thin
+NameArray:0,Win,1,Alegreya Sans Thin
+NameArray:0,Win,16,Alegreya Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime_stokvel_catalogue-folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:231312
+FileModTime:1265288442
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
