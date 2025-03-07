@@ -1,15 +1,15 @@
-# bodyTime() Exhibition Repository
-by André Clements
+# bodyTime() Exhibition Repository  
+**by André Clements**
 
-**Dates**: March 15–16, 2025  
-**Venue**: Stokvel Gallery, 27 Boxes, Melville, Johannesburg  
+**Dates:** March 15–16, 2025  
+**Venue:** Stokvel Gallery, 27 Boxes, Melville, Johannesburg  
 
-## Overview
-*bodyTime()* is an intimate, philosophical, and gently subversive exhibition—black-and-white double-exposure photographs, each uniquely printed, exploring embodiment, vulnerability, consent, and the quiet ethics of saying "yes."  
+## Overview  
+*bodyTime()* is an intimate exhibition featuring black-and-white double-exposure photographs that gently explore embodiment, vulnerability, consent, and the ethics of saying "yes."
 
-Drawing inspiration from weekly life-drawing sessions, the philosophical nuances of Martha Nussbaum, the poetic shadows of Omar Khayyám, and resisting coercive cycles described in the Karpman Drama Triangle, this exhibition softly challenges the viewer to reconsider what it means to be truly present, honest, and vulnerable through the gentle invitation of consensual intimacy.
+Inspired by regular life-drawing sessions, philosophical insights from Martha Nussbaum, and the poetic reflections of Omar Khayyám, the exhibition softly challenges viewers to reconsider presence, honesty, and vulnerability through consensual intimacy.
 
-## Exhibition Concept
+## Exhibition Concept  
 > “In and out, above about, below—  
 > it’s all nothing more than a magic shadow show  
 > in a box whose candle is the sun,  
@@ -17,45 +17,44 @@ Drawing inspiration from weekly life-drawing sessions, the philosophical nuances
 > come and go.”  
 > —after Omar Khayyám  
 
-*bodyTime()* gently holds two fleeting truths—embodiment (the physicality of being alive, softly exposed) and beingness (the ephemeral, shadow-like nature of existence). These truths don’t compete but layer quietly, reflected in soft black-and-white double exposures exhibited briefly for only two days.  
+*bodyTime()* explores two interconnected realities: **embodiment** (the tangible, physical presence) and **beingness** (our transient, shadow-like existence). These layers quietly coexist in each photograph, briefly displayed over two days.
 
-At heart is consent—a yes freely offered, quietly foundational. Consent turns vulnerability into something profound, transforming openness into beauty rather than exposure. Integrity emerges here, aligned with my Vita-Socio-Anarco philosophy, resisting coercion gently, playfully priced at R3,333.33, and exhibited without pretension at artist-run Stokvel Gallery, Melville, Johannesburg.
+At its core is **consent**—a freely given "yes," fundamental and necessary. Consent transforms vulnerability into beauty rather than mere exposure. This aligns with a personal philosophy—**Vita-Socio-Anarco**—emphasizing life, community, and freedom from domination. The works are playfully priced at R3,333.33 and exhibited without pretension at the artist-run Stokvel Gallery.
 
-### Core Themes
-- **Consent**: Freely given, ethically essential, foundational.  
-- **Vulnerability**: Beauty through voluntary openness, never coercion.  
-- **Honesty**: Quiet presence without pretense.  
-- **Integrity**: Vita-Socio-Anarco—life, sociality, non-domination.  
-- **Playful Pricing**: Consistent absurdity, resisting market-driven logic (R3,333.33).  
-- **Karpman Triangle**: Drama and coercion quietly dismantled through honesty.  
-- **Non-pathological Objectification**: Inspired by Martha Nussbaum—looking gently, respectfully, with consent.  
-- **Gender Freedom**: Any body, any gender—no stereotypes or forced identities.  
-- **Light-Touch Process**: Minimal intervention, maximum autonomy.  
-- **Fleetingness**: Life’s shadow-play, inspired by Omar Khayyám’s philosophy.
+### Core Themes  
+- **Consent:** Freely given, foundational.
+- **Vulnerability:** Beauty through openness, never coercion.
+- **Honesty:** Genuine presence without pretense.
+- **Integrity:** Life, community, non-domination.
+- **Playful Pricing:** Consistent absurdity challenging market logic (R3,333.33).
+- **Karpman Triangle:** Quietly dismantling coercive drama through honesty.
+- **Non-pathological Objectification:** Respectful, consensual viewing (Martha Nussbaum).
+- **Gender Freedom:** Inclusive of all identities, free from stereotypes.
+- **Light-Touch Process:** Minimal intervention, maximum autonomy.
+- **Fleetingness:** Reflecting life's ephemeral nature (Omar Khayyám).
 
-## Exhibition Details
-**Venue**: Stokvel Gallery  
+## Exhibition Details  
+**Venue:** Stokvel Gallery  
 27 Boxes, 76a 4th Avenue, Melville, Johannesburg  
 
-**Opening Talk**: Sammy Muller  
-**Date**: March 15, 2025  
-**Time**: 11:30 AM  
+**Opening Talk:** Sammy Muller  
+**Date:** March 15, 2025  
+**Time:** 11:30 AM  
 
-**Exhibition Duration**:  
+**Exhibition Duration:**  
 March 15–16, 2025, 10:00–16:00 daily  
 
-## Repository Contents
-- **Catalogue & Essays**: Exhibition texts, philosophical treatises, descriptions.  
-- **Visual Elements**: Selected exhibition images (double-exposures), posters, and invite graphics.  
-- **Documentation**: Exhibition process, curatorial statements, reflections.  
-- **Philosophical Framework**: Expanded essays on consent, vulnerability, integrity, and gentle rebellion.
+## Repository Contents  
+- **Catalogue & Essays:** Exhibition texts and philosophical reflections.  
+- **Visual Elements:** Selected photographs, posters, and invitations.  
+- **Documentation:** Curatorial statements and exhibition process.  
+- **Philosophical Framework:** Essays on consent, vulnerability, integrity, and gentle rebellion.
 
-## Usage and Licensing
-All contents of this repository are released under the [Creative Commons Zero (CC0) v1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to adapt, remix, and share freely—no attribution required, though always warmly appreciated.
+## Usage and Licensing  
+All content is released under the [Creative Commons Zero (CC0) v1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). Free to adapt, remix, and share without attribution (though attribution is warmly welcomed).
 
-## Contact & Connect
-André Clements  
-
-**Email**: [andre@andresclements.com](mailto:andre@andresclements.com)  
-**Phone**: +27 82 812 0549  
-**Website**: [andresclements.com](https://andresclements.com)  
+## Contact & Connect  
+**André Clements**  
+- **Email:** [andre@andresclements.com](mailto:andre@andresclements.com)  
+- **Phone:** +27 82 812 0549  
+- **Website:** [andresclements.com](https://andresclements.com)  
