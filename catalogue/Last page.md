@@ -1,7 +1,7 @@
 # In Closing  
 ## Artist Statement
 
-*bodyTime()*: Our bodies trace us, skimming time, unfurling presence through flesh and bone, skin, shadow, and the unseen we sometimes, just for an instant, might see.
+*bodyTime()*: Our bodies trace us, skimming time, unfurling presence through flesh and bone, skin, shadow, and the unseen we sometimes, just for an instant, might see, might be.
 
 ## Advance Praise
 
