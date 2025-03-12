@@ -11,7 +11,7 @@ FullName:Alegreya Sans Italic
 MenuName:Alegreya Sans
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\Invite-bodyTime02 Folder\Document fonts\AlegreyaSans-Italic.otf
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\invitation\Document fonts\AlegreyaSans-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -37,7 +37,7 @@ FullName:IBM Plex Mono Bold
 MenuName:IBM Plex Mono
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\Invite-bodyTime02 Folder\Document fonts\IBMPlexMono-Bold.ttf
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\invitation\Document fonts\IBMPlexMono-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -60,7 +60,7 @@ FullName:IBM Plex Mono Medium
 MenuName:IBM Plex Mono Medium
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\Invite-bodyTime02 Folder\Document fonts\IBMPlexMono-Medium.ttf
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\invitation\Document fonts\IBMPlexMono-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -84,7 +84,7 @@ FullName:IBM Plex Mono Regular
 MenuName:IBM Plex Mono
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\Invite-bodyTime02 Folder\Document fonts\IBMPlexMono-Regular.ttf
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\invitation\Document fonts\IBMPlexMono-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -107,7 +107,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\Invite-bodyTime02 Folder\Document fonts\MinionPro-Regular.otf
+OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\invitation\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
