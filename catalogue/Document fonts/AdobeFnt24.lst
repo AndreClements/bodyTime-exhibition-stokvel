@@ -11,7 +11,7 @@ FullName:Alegreya Sans Bold
 MenuName:Alegreya Sans
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Bold.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -19,7 +19,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:108264
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -37,7 +37,7 @@ FullName:Alegreya Sans Bold Italic
 MenuName:Alegreya Sans
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-BoldItalic.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-BoldItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -45,7 +45,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:104712
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -63,7 +63,7 @@ FullName:Alegreya Sans Italic
 MenuName:Alegreya Sans
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Italic.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -71,7 +71,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:103872
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -89,7 +89,7 @@ FullName:Alegreya Sans Light
 MenuName:Alegreya Sans Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Light.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -97,7 +97,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:107152
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -116,7 +116,7 @@ FullName:Alegreya Sans Light Italic
 MenuName:Alegreya Sans Light
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-LightItalic.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-LightItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -124,7 +124,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:105432
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -143,7 +143,7 @@ FullName:Alegreya Sans Medium Italic
 MenuName:Alegreya Sans Medium
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-MediumItalic.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-MediumItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -151,7 +151,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:103808
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:500
 WidthClass:5
 AngleClass:1
@@ -170,7 +170,7 @@ FullName:Alegreya Sans
 MenuName:Alegreya Sans
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Regular.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -178,7 +178,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:107260
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -196,7 +196,7 @@ FullName:Alegreya Sans Thin
 MenuName:Alegreya Sans Thin
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Thin.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\AlegreyaSans-Thin.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -204,7 +204,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:103764
-FileModTime:1662874878
+FileModTime:1741614862
 WeightClass:250
 WidthClass:5
 AngleClass:0
@@ -223,7 +223,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\ArtInProgress\BodyTime at Stokvel\bodyTime-exhibition-stokvel\catalogue\Document fonts\MinionPro-Regular.otf
+OutlineFileName:G:\e\Private\art\bodyTime\bodyTime-exhibition-stokvel-main\bodyTime-exhibition-stokvel\catalogue\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -231,7 +231,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:231312
-FileModTime:1265288442
+FileModTime:1741614862
 WeightClass:400
 WidthClass:5
 AngleClass:0
